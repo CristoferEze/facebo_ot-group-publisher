@@ -23,7 +23,7 @@ A powerful and reliable desktop bot to schedule and publish posts in your Facebo
 *   **Multi-Account Management**: Securely manage multiple Facebook profiles within the application.
 *   **Post Templating**: Create and save post templates with text, links, and images to reuse them easily.
 *   **Automatic Updates**: The application automatically checks for and installs updates, ensuring you always have the latest features.
-*   **Cross-Platform**: Available for Windows, macOS, and Linux.
+*   **Cross-Platform**: Available for Windows.
 
 ### 🚀 Installation
 
@@ -58,7 +58,7 @@ Un bot de escritorio potente y fiable para programar y publicar posts en tus gru
 *   **Gestión Multicuenta**: Administra de forma segura múltiples perfiles de Facebook dentro de la aplicación.
 *   **Plantillas de Posts**: Crea y guarda plantillas de publicaciones con texto, enlaces e imágenes para reutilizarlas fácilmente.
 *   **Actualizaciones Automáticas**: La aplicación busca e instala actualizaciones automáticamente, asegurando que siempre tengas las últimas funcionalidades.
-*   **Multiplataforma**: Disponible para Windows, macOS y Linux.
+*   **Multiplataforma**: Disponible para Windows.
 
 ### 🚀 Instalación
 
