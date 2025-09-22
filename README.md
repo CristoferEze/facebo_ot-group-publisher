@@ -37,20 +37,6 @@ Getting started is easy! Head over to our **[Releases Page](https://github.com/t
 4.  **Schedule**: Pick a date and time for the publication.
 5.  **Let it Run**: The agent will take care of the rest, publishing your post at the scheduled time, even if the main window is closed.
 
-### 🤝 Contributing
-
-Contributions are welcome! If you want to improve GroupAgent, please follow these steps:
-
-1.  Fork the repository.
-2.  Create a new branch (`git checkout -b feature/AmazingFeature`).
-3.  Commit your changes (`git commit -m 'Add some AmazingFeature'`).
-4.  Push to the branch (`git push origin feature/AmazingFeature`).
-5.  Open a Pull Request.
-
-### 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
 ---
 
 ## GroupAgent (Versión en Español)
@@ -86,16 +72,3 @@ Un bot de escritorio potente y fiable para programar y publicar posts en tus gru
 4.  **Programa**: Escoge una fecha y hora para la publicación.
 5.  **Déjalo Funcionar**: El agente se encargará del resto, publicando tu post a la hora programada, incluso si la ventana principal está cerrada.
 
-### 🤝 Contribuciones
-
-¡Las contribuciones son bienvenidas! Si quieres mejorar GroupAgent, por favor sigue estos pasos:
-
-1.  Haz un "Fork" del repositorio.
-2.  Crea una nueva rama (`git checkout -b feature/FuncionIncreible`).
-3.  Haz "Commit" de tus cambios (`git commit -m 'Añade una FuncionIncreible'`).
-4.  Haz "Push" a la rama (`git push origin feature/FuncionIncreible`).
-5.  Abre un "Pull Request".
-
-### 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE.md](LICENSE.md) para más detalles.
